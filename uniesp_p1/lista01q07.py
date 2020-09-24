@@ -1,0 +1,7 @@
+print ('::Calculando a média ponderada de 4 numeros::')
+n1 = float(input ('Digite o 1º número: '))
+n2 = float(input ('Digite o 2º número: '))
+n3 = float(input ('Digite o 3º número: '))
+n4 = float(input ('Digite o 4º número: '))
+media = (n1*1 + n2*2 + n3*3 + n4*4)/(1+2+3+4)
+print('A média ponderada dos numeros digitados é:', media)
