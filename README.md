@@ -1,2 +1,2 @@
-# java
+# python
 codigos em python
